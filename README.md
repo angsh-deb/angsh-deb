@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshuman-deb
+- 👋 Hi, I’m @angsh-deb
 - 👀 I’m interested in AI, and it's application in healthcare & life sciences
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on novel AI approaches
